@@ -1,0 +1,8 @@
+# Ignore system files
+.DS_Store
+
+# Ignore Composer files
+/vendor/
+
+# Ignore PHPStorm files
+.idea/
